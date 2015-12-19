@@ -1,4 +1,0 @@
-HerelandFarland
-===============
-
-** TODO: Add description **
